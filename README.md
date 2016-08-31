@@ -13,6 +13,6 @@ react native webstrom的环境搭建，基于win系统
 
 GitHub仓库里的图片
 https://github.com/ 你的用户名 / 你的项目名 / raw / 分支名 / 存放图片的文件夹 / 该文件夹下的图片
-![](https://github.com/jonymrshi/react-native-webstrom/img/1.png)
+![](https://github.com/jonymrshi/react-native-webstrom/blob/master/img/1.png)
  
-![AAA](https://github.com/jonymrshi/react-native-webstrom/img/1.png " 啊啊啊啊")
+![AAA](https://github.com/jonymrshi/react-native-webstrom/blob/master/img/1.png " 啊啊啊啊")
